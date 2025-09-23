@@ -111,12 +111,6 @@ div.social {
     }
 }
 
-.navbar-nav .nav-link {
-    display: flex;
-    align-items: center;
-    height: 64px;
-}
-
 .contact-section {
     background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
 }
